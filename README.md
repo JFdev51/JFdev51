@@ -17,7 +17,7 @@ Lenguajes y herramientas :
 </a>  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 </a><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"></a>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a 
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
