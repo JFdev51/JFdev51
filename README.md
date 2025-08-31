@@ -16,7 +16,8 @@ Lenguajes y herramientas :
 </a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 </a>  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 </a><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"></a>
-</a><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Espressif_logo.svg" alt="ESP32">
+</a><img width="32px" src="assets/icons/esp32.png" alt="ESP32">
+
 
 </a>
 
