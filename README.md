@@ -42,6 +42,6 @@ Lenguajes y herramientas :
 </p>
 
 <p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=brdhanani.brdhanani" alt="visitor badge"/>
+
 </p>
 
