@@ -13,7 +13,7 @@ Lenguajes y herramientas :
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,c,css,gcp,html,js,linux,py,unity,vscode," />
-     <img src="https://skillicons.dev/icons?i=aws,autocad,blender,discord,firebase,github,windows,py,unity,vscode," />
+     <img src="https://skillicons.dev/icons?i=aws,autocad,blender,discord,firebase,github,windows," />
   </a>
 </p>
 
