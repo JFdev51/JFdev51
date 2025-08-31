@@ -16,7 +16,11 @@ Lenguajes y herramientas :
 </a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 </a>  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 </a><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"></a>
-<img width="32px" src="https://freesvg.org/fr/esp32-devkitc.svg" alt="ESP32 DevKitC board">
+</a><img width="32px" src="https://i.imgur.com/8vH9i0Q.png" alt="ESP32">
+</a>
+
+</a></a>
+
 
 
 <p align='center'>
