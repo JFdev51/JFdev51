@@ -10,22 +10,9 @@
 </div>
 
 Lenguajes y herramientas :
-<br />
-ttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"></a>
 <p align="center">
-  <a 
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
-
-
-
-</a>
-
-</a></a>
-
-
-
-<p align='center'>
- 
 
