@@ -8,8 +8,8 @@
     <summary><h1 style="display: inline-block">Hola Mundo -JF-</h1></summary>
   </ul>
 </div>
-### 👨‍💻 Languages and Tools
 
+Lenguajes y herramientas :
 <br />
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
